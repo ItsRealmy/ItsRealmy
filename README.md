@@ -1,4 +1,2 @@
-# Heyo heyo heyo!
-I'm Realmy, pretty much a full stack developer but preferring frontend!
-I'm not the type of guy that makes a lot of open source stuff, but I do make closed source projects here nonetheless.
-Anyways, maybe check out my microblog? https://rijkdb.neocities.org
+# Hello!
+I'm Realmy, a full stack developer with an appreciation for Node.js, CustomDev lead developer and Beat Saber fan! I make Discord bots, websites, anything that comes to mind, really! You wont see much public repo's here, since I prefer closed source over open source. Thank you for checking out my profile!
